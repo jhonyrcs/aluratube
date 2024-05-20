@@ -1,12 +1,13 @@
-:clapper: **Projeto: AluraTube**
+# :clapper:  AluraTube :clapper: 
 
-![GitHub License](https://img.shields.io/github/license/jhonyrcs/aluratube?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/jhonyrcs/aluratube?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fjhonyrcs%2Faluratube%2Fblob%2Fmain%2FLICENSE)
+
 
 :film_projector:**Descrição do Projeto:**
 
 AluraTube é uma plataforma fictícia de streaming de vídeos, criada durante o curso de imersão em React da Alura. Desenvolvida com o objetivo de proporcionar uma experiência fluida de forma intuitiva e eficiente.
 
-:arrow_forward:**Link do Projeto**
+:arrow_forward:**Link do Projeto:**
 [AluraTube - Vercel](https://aluratube-jhony.vercel.app/)
 
 :computer:**Características Principais:**
@@ -21,4 +22,4 @@ AluraTube é uma plataforma fictícia de streaming de vídeos, criada durante o 
 - **CSS:** Estilização moderna para uma experiência visual atraente.
 
 :warning:**Licença do Projeto:**
-[MIT License](./LICENSE.md) © [Jhony Santos](https://github.com/jhonyrcs)
+[MIT License](./LICENSE) © [Jhony Santos](https://github.com/jhonyrcs)
