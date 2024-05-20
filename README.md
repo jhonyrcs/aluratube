@@ -1,4 +1,4 @@
-:clapper:# Projeto: AluraTube
+:clapper: **Projeto: AluraTube**
 
 ![GitHub License](https://img.shields.io/github/license/jhonyrcs/aluratube?style=for-the-badge)
 
